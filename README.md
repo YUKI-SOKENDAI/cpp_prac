@@ -5,25 +5,25 @@ It is for practicing C++ and C. I referred to [ロベールのC++教室](http://
 
 *** DEMO ***
 
-# Features
+## Features
 - Uri
 - function
 - UI
 
-# Requirement
-C++
-WSL(Windows10) with Ubuntu-18.04
-g++ compiler(gcc version 7.4.0)
+## Requirement
+- C++
+- WSL(Windows10) with Ubuntu-18.04
+- g++ compiler(gcc version 7.4.0)
 
-# Installation
-  $ git clone ***
+## Installation
+  $ git clone https://github.com/YUKI-SOKENDAI/cpp_prac_ATF.git
 
-# Usage
+## Usage
 
-# Note
+## Note
 
-# Author
+## Author
 * Yuki Abe, SOKENDAI, abeyuki@post.kek.jp
 
-# Licence
+## Licence
 * Free licence.
