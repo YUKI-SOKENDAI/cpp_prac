@@ -1,4 +1,4 @@
-# cpp_prac_ATF
+# cpp_prac
 It is for practicing C++ and C. I referred to [ロベールのC++教室](http://www7b.biglobe.ne.jp/~robe/cpphtml/).
 
 ## Descriotion
